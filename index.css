@@ -1,0 +1,24 @@
+/* #### Provided by the folks at http://www.cufonfonts.com #### */
+
+@font-face {
+    font-family: 'Sansation';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sansation'), url('https://cdn.realsgii2.dev/rcss/sansation/Sansation_Regular.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Sansation Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sansation Light'), url('https://cdn.realsgii2.dev/rcss/sansation/Sansation_Light.woff') format('woff');
+}
+    
+
+@font-face {
+    font-family: 'Sansation Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sansation Bold'), url('https://cdn.realsgii2.dev/rcss/sansation/Sansation_Bold.woff') format('woff');
+}
